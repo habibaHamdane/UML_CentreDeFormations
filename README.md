@@ -58,7 +58,7 @@
 ---
 ### Diagrammes de classe et d'entités
 ---
-- > [Diagramme de classes du centre de formations](/CentreDeFormations/Classe/CentreDeFormations.jpg)
+- > [Diagramme de classes du centre de formations](/CentreDeFormations/Classe/CentreDeFormatios.jpg)
 - > [Diagramme d'entités : FormateurCreateProject](/CentreDeFormations/Classe/FormCreatProj.jpg)
 - > [Diagramme d'entités : AssignerProjectToPromo](/CentreDeFormations/Classe/ProjProm.jpg)
 
@@ -132,7 +132,7 @@
 ---
 ### Diagramme de classe : 
 
-![](/CentreDeFormations/Classe/CentreDeFormations.jpg)
+![](/CentreDeFormations/Classe/CentreDeFormatios.jpg)
 
 
 
