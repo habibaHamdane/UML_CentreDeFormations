@@ -65,7 +65,7 @@
 ---
 - > [Diagramme de séquence : Assigner le projet a une promo](/CentreDeFormations/Sequence/ProjToPromo.jpg)
 - > [Diagramme de séquence : Create Project](/CentreDeFormations/Sequence/CreateProject.jpg)
-- > [Diagramme de séquence : Assigner Un CP au CF](/CentreDeFormations/Sequence/CPToCF.jpg)
+- > [Diagramme de séquence : Assigner Un Chargé de promo au centre](/CentreDeFormations/Sequence/CPToCF.png)
         
 ---
 # introduction 
