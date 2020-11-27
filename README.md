@@ -129,6 +129,11 @@
 
 ![](/CentreDeFormations/UseCase/Apprenant.jpg)
 
+---
+### Diagramme de classe : 
+
+![](/CentreDeFormations/Class/CentreDeFormations.jpg)
+
 
 
 
