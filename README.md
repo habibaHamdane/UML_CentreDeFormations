@@ -1,6 +1,6 @@
 
 
-# **PROJET UML : Conception du projet Centre de formations**
+# **PROJET UML : Conception du projet Réseau des Centres de formations**
 
 **Sujet :**
 [Contexte]https://gitlab.com/simplonlyon/promo12/cpro/project-uml#project-uml
