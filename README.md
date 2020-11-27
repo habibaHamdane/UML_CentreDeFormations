@@ -31,12 +31,12 @@
 ---
 ### Diagrammes de use case 
 ---
-- > [Diagramme USECASE : user](/UseCase/User.jpg)
-- > [Diagramme USECASE : candidat.e](/UseCase/ApprenantPotentiel.jpg)
-- > [Diagramme USECASE : direct.eur.trice](/UseCase/Directeur.jpg)
-- > [Diagramme USECASE : chargé.e de promo](/UseCase/ChargéDePromo.jpg)
-- > [Diagramme USECASE : format.eur.rice](/UseCase/Formateur.jpg)
-- > [Diagramme USECASE : apprenant.e](/UseCase/Apprenant.jpg)
+- > [Diagramme USECASE : user](/CentreDeFormations/UseCase/User.jpg)
+- > [Diagramme USECASE : candidat.e](/CentreDeFormations/UseCase/ApprenantPotentiel.jpg)
+- > [Diagramme USECASE : direct.eur.trice](/CentreDeFormations/UseCase/Directeur.jpg)
+- > [Diagramme USECASE : chargé.e de promo](/CentreDeFormations/UseCase/ChargéDePromo.jpg)
+- > [Diagramme USECASE : format.eur.rice](/CentreDeFormations/UseCase/Formateur.jpg)
+- > [Diagramme USECASE : apprenant.e](/CentreDeFormations/UseCase/Apprenant.jpg)
 
 ---
 ### Use Case Ecrits
