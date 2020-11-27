@@ -58,9 +58,9 @@
 ---
 ### Diagrammes de classe et d'entités
 ---
-- > [Diagramme de classes du centre de formations](/CentreDeFormations/Class/CentreDeFormations.jpg)
-- > [Diagramme d'entités : FormateurCreateProject](/CentreDeFormations/Class/FormCreatProj.jpg)
-- > [Diagramme d'entités : AssignerProjectToPromo](/CentreDeFormations/Class/ProjProm.jpg)
+- > [Diagramme de classes du centre de formations](/CentreDeFormations/Classe/CentreDeFormations.jpg)
+- > [Diagramme d'entités : FormateurCreateProject](/CentreDeFormations/Classe/FormCreatProj.jpg)
+- > [Diagramme d'entités : AssignerProjectToPromo](/CentreDeFormations/Classe/ProjProm.jpg)
 
 ---
 ### Diagrammes de séquence
@@ -132,7 +132,7 @@
 ---
 ### Diagramme de classe : 
 
-![](/CentreDeFormations//Class/CentreDeFormations.jpg)
+![](/CentreDeFormations/Classe/CentreDeFormations.jpg)
 
 
 
