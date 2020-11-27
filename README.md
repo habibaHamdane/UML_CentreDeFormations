@@ -106,7 +106,7 @@
 - Se charge de CRUD apprenant 
 - Inviter les apprenants dans une promo
 - Gérer les retards / absences
-- Gérer l'agenda
+- Gérer l'agenda des formations
     
 ![](/CentreDeFormations/UseCase/ChargéDePromo.jpg)
 
@@ -132,7 +132,7 @@
 ---
 ### Diagramme de classe : 
 
-![](/CentreDeFormations/Class/CentreDeFormations.jpg)
+![](/CentreDeFormations//Class/CentreDeFormations.jpg)
 
 
 
