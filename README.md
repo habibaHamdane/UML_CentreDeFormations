@@ -5,7 +5,7 @@
 **Sujet :**
 [Contexte]https://gitlab.com/simplonlyon/promo12/cpro/project-uml#project-uml
 
-- > [](/CentreDeFormations/Sujet/ProjetUml.png)
+![](/CentreDeFormations/Sujet/ProjetUml.png)
 
 ---
 **participant.e.s :**
