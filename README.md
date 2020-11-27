@@ -41,31 +41,31 @@
 ---
 ### Use Case Ecrits
 ---
-- > [Use Case Ecrit : se connecter](/UseCaseEcrit/SeConnecter.png)
-- > [Use Case Ecrit : candidater](/UseCaseEcrit/Candidater.png)
-- > [Use Case Ecrit : ValiderCandidature](/UseCaseEcrit/ValiderCandidature.png)
+- > [Use Case Ecrit : se connecter](/CentreDeFormations/UseCaseEcrit/SeConnecter.png)
+- > [Use Case Ecrit : candidater](/CentreDeFormations/UseCaseEcrit/Candidater.png)
+- > [Use Case Ecrit : ValiderCandidature](/CentreDeFormations/UseCaseEcrit/ValiderCandidature.png)
 
 ---
 ### Diagrammes d'activité
 ---
-- > [Diagramme d'activité : s'inscrire](/Activity/S'inscrire.jpg)
-- > [Diagramme d'activité : se connecter](/Activity/Connexion.jpg)
-- > [Diagramme d'activité : candidater](/Activity/ApprenantPotentiel.jpg)
-- > [Diagramme d'activité : assigner formateur a une formation](/Activity/AssignerFormProm.jpg)
+- > [Diagramme d'activité : s'inscrire](/CentreDeFormations/Activity/S'inscrire.jpg)
+- > [Diagramme d'activité : se connecter](/CentreDeFormations/Activity/Connexion.jpg)
+- > [Diagramme d'activité : candidater](/CentreDeFormations/Activity/ApprenantPotentiel.jpg)
+- > [Diagramme d'activité : assigner formateur a une formation](/CentreDeFormations/Activity/AssignerFormProm.jpg)
 
 ---
 ### Diagrammes de classe et d'entités
 ---
-- > [Diagramme de classes du centre de formations](/Class/CentreDeFormations.jpg)
-- > [Diagramme d'entités : FormateurCreateProject](/Class/FormCreatProj.jpg)
-- > [Diagramme d'entités : AssignerProjectToPromo](/Class/ProjProm.jpg)
+- > [Diagramme de classes du centre de formations](/CentreDeFormations/Class/CentreDeFormations.jpg)
+- > [Diagramme d'entités : FormateurCreateProject](/CentreDeFormations/Class/FormCreatProj.jpg)
+- > [Diagramme d'entités : AssignerProjectToPromo](/CentreDeFormations/Class/ProjProm.jpg)
 
 ---
 ### Diagrammes de séquence
 ---
-- > [Diagramme de séquence : Assigner le projet a une promo](/Sequence/ProjToPromo.jpg)
-- > [Diagramme de séquence : Create Project](/Sequence/CreateProject.jpg)
-- > [Diagramme de séquence : Assigner Un CP au CF](/Sequnce/CPToCF.jpg)
+- > [Diagramme de séquence : Assigner le projet a une promo](/CentreDeFormations/Sequence/ProjToPromo.jpg)
+- > [Diagramme de séquence : Create Project](/CentreDeFormations/Sequence/CreateProject.jpg)
+- > [Diagramme de séquence : Assigner Un CP au CF](/CentreDeFormations/Sequnce/CPToCF.jpg)
         
 ---
 # introduction 
@@ -76,7 +76,7 @@
 
 - S'authentifier selon son rôle
 
-![](/UseCase/User.jpg)
+![](/CentreDeFormations/UseCase/User.jpg)
 
 ---
 ### Un.e direct.eur.trice pourra : 
@@ -85,7 +85,7 @@
 - Se charger du CRUD des chargés de promos (Créer, Modifier, lire, supprimer un chargé de promo)
 - Assigner les chargés de promos au centre de formation
 
-![](/UseCase/Directeur.jpg)
+![](/CentreDeFormations/UseCase/Directeur.jpg)
 
 ---
 ### Un candidat.e pourra : 
@@ -93,7 +93,7 @@
 - Sélectionner une formation 
 - Candidater
 
-![](/UseCase/ApprenatPotentiel.jpg)
+![](/CentreDeFormations/UseCase/ApprenatPotentiel.jpg)
 
 ---
 ### Un.e chargé.e de promo pourra : 
@@ -106,7 +106,7 @@
 - Gérer les retards / absences
 - Gérer l'agenda
     
-![](/UseCase/ChargéDePromo.jpg)
+![](/CentreDeFormations/UseCase/ChargéDePromo.jpg)
 
 ---
 ### Un.e format.eur.rice pourra : 
@@ -115,7 +115,7 @@
 - Corriger un projet
 - Assurer la gestion de livret d'évaluation
 
-![](/UseCase/Formateur.jpg)
+![](/CentreDeFormations/UseCase/Formateur.jpg)
 
 ---
 ### Un.e apprenant.e pourra : 
@@ -125,7 +125,7 @@
 - Rédiger un dossier professionnel
 - Rédiger un dossier projet 
 
-![](/UseCase/Apprenant.jpg)
+![](/CentreDeFormations/UseCase/Apprenant.jpg)
 
 
 
